@@ -1,7 +1,7 @@
 using System;
 namespace Core 
 {
-    class Deck
+    public class Deck
     {
         public Card CurrentCard {get; private set;}
         public Card NextCard {get; private set;}

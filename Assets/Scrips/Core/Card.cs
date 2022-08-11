@@ -1,6 +1,6 @@
 namespace Core 
 {
-    class Card
+    public class Card
     {
         public int Number { get; private set; } = 0;
         public string Symbol {get; private set; } = "";
